@@ -19,7 +19,7 @@
 <h3 align="center">
   <details>
   <summary>Short info</summary>
-  Salvadorean gal here hi!  .  Spanish/English  .  Read Patreon 4 more info
+  Salvadorean gal here hi!  .  Spanish/English  .  I am Acci and he is me, ok you'll never know who that is  Read Patreon 4 more info
 </details>
 </h3> 
 <h3 align="center">
