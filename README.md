@@ -37,7 +37,7 @@
 <h3 align="center">
   <details>
   <summary>Links to socials</summary>
-  <a href="https://kryptiden-code.atabook.org">atabook</a> . <a href="www.patreon.com/c/RotValley">Patreon</a> . <a href="https://www.pinterest.com/CinderTheGreat_470/">Pinterest</a
+  <a href="https://kryptiden-code.atabook.org">atabook</a> . <a href="https://patreon.com/RotValley?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">Patreon</a> . <a href="https://www.pinterest.com/CinderTheGreat_470/">Pinterest</a
 </details>
 </h3> 
 <h3 align="center">
